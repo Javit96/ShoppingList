@@ -1,0 +1,17 @@
+services:
+  shoppinglist:
+    build:
+      context: C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44379'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: shoppinglist
+    ports:
+    - 61383:80/tcp
+    - 44379:443/tcp
+    volumes:
+    - C:\Users\Javier Ivan Moreno\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Javier Ivan Moreno\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

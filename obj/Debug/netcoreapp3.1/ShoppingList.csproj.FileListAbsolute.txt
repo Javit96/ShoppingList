@@ -1,0 +1,293 @@
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csprojAssemblyReference.cache
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.RazorTargetAssemblyInfo.cache
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingList.StaticWebAssets.Manifest.cache
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingList.StaticWebAssets.xml
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.exe
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.deps.json
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.json
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.dev.json
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.genruntimeconfig.cache
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CopyComplete
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.Design.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Javier Ivan Moreno\Documents\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csprojAssemblyReference.cache
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.dll
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.pdb
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.exe
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.deps.json
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.json
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.dev.json
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.pdb
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.RazorTargetAssemblyInfo.cache
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CopyComplete
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingList.StaticWebAssets.Manifest.cache
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingList.StaticWebAssets.xml
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.genruntimeconfig.cache
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.Properties.Resources.resources
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.GenerateResource.cache
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CoreCompileInputs.cache
+E:\GitHub\ShoppingList\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitHub\ShoppingList\ShoppingList\bin\Debug\netcoreapp3.1\Humanizer.dll
