@@ -1,5 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using ShoppingList.Models.Auth;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace ShoppingList.Models
@@ -8,7 +8,7 @@ namespace ShoppingList.Models
     {
         [Key]
         public int TokenId { get; set; }
-        public int UserId { get; set; }
+        public Guid UserId { get; set; }
         public string Token { get; set; }
         public DateTime ExpiryDate { get; set; }
 

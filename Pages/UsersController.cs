@@ -1,21 +1,19 @@
-﻿ using System;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using ShoppingList.Models;
+using ShoppingList.Models.Auth;
+using ShoppingList.Settings;
+using System;
 using System.Collections.Generic;
-using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
-using Microsoft.IdentityModel.Tokens;
-using ShoppingList.Models;
 
-namespace ShoppingList
+namespace ShoppingList.Pages
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -34,14 +32,14 @@ namespace ShoppingList
         [HttpGet]
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
-            return await _context.User.ToListAsync();
+            return await _context.Users.ToListAsync();
         }
 
         // GET: api/Users/5
         [HttpGet("{id}")]
         public async Task<ActionResult<User>> GetUser(int id)
         {
-            var user = await _context.User.FindAsync(id);
+            var user = await _context.Users.FindAsync(id);
 
             if (user == null)
             {
@@ -51,15 +49,15 @@ namespace ShoppingList
             return user;
         }
 
-        // POST: api/Users
+       /* // POST: api/Users
         [HttpPost("Login")]
         public async Task<ActionResult<UserWithToken>> Login([FromBody] User user)
         {
-            user = await _context.User.Where(u => u.Username == user.Username 
+            user = await _context.User.Where(u => u.Username == user.Username
                     && u.password == user.password)
                         .SingleOrDefaultAsync();
-            
-            
+
+
             UserWithToken userWithToken = null;
 
 
@@ -121,7 +119,7 @@ namespace ShoppingList
             return userWithToken;
 
 
-        }
+        }*/
 
         [Authorize]
         [HttpGet("GetUserDetail/{username}")]
@@ -129,26 +127,26 @@ namespace ShoppingList
         {
             Console.WriteLine(username);
             User user = null;
-            user = await _context.User.Where(u => u.Username == username).FirstOrDefaultAsync();
+            user = await _context.Users.Where(u => u.UserName == username).FirstOrDefaultAsync();
 
             if (user == null)
             {
                 return NotFound();
             }
 
-            
+
 
             return user;
         }
 
 
 
-        [HttpPost("RefreshToken")]
+      /*  [HttpPost("RefreshToken")]
         public async Task<ActionResult<UserWithToken>> RefreshToken([FromBody] RefreshRequest refreshRequest)
         {
             User user = await GetUserFromAccessToken(refreshRequest.AccessToken);
 
-            if(user != null && ValidateRefreshToken(user, refreshRequest.RefreshToken))
+            if (user != null && ValidateRefreshToken(user, refreshRequest.RefreshToken))
             {
                 UserWithToken userWithToken = new UserWithToken(user);
                 userWithToken.AccessToken = GenerateAccessToken(user.UserID);
@@ -180,7 +178,7 @@ namespace ShoppingList
                                 .FirstOrDefault();
 
 
-            if(refreshTokenUser != null && refreshTokenUser.UserId == user.UserID
+            if (refreshTokenUser != null && refreshTokenUser.UserId == user.UserID
                 && refreshTokenUser.ExpiryDate > DateTime.UtcNow)
             {
                 return true;
@@ -219,12 +217,12 @@ namespace ShoppingList
                 }
 
             }
-            catch(Exception)
+            catch (Exception)
             {
                 return new User();
 
             }
-                return new User();
+            return new User();
         }
 
         private RefreshToken GenerateRefreshToken()
@@ -239,7 +237,7 @@ namespace ShoppingList
             }
             refreshToken.ExpiryDate = DateTime.UtcNow.AddMonths(6);
 
-           return refreshToken;
+            return refreshToken;
         }
 
         private string GenerateAccessToken(int userId)
@@ -260,7 +258,7 @@ namespace ShoppingList
             return tokenHandler.WriteToken(token);
         }
 
-
+        */
 
 
         // PUT: api/Users/5
@@ -269,7 +267,7 @@ namespace ShoppingList
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUser(int id, User user)
         {
-            if (id != user.UserID)
+            if (id != Convert.ToInt32(user.Id))
             {
                 return BadRequest();
             }
@@ -301,23 +299,38 @@ namespace ShoppingList
         [HttpPost]
         public async Task<ActionResult<User>> PostUser(User user)
         {
-            _context.User.Add(user);
-            await _context.SaveChangesAsync();
+            _context.Users.Add(user);
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateException)
+            {
+                if (UserExists(Convert.ToInt32(user.Id)))
+                {
+                    return Conflict();
+                }
+                else
+                {
+                    throw;
+                }
+            }
 
-            return CreatedAtAction(nameof(GetUser), new { id = user.UserID }, user);
+            return CreatedAtAction("GetUsers", new { id = user.Id }, user);
         }
+
 
         // DELETE: api/Users/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<User>> DeleteUser(int id)
         {
-            var user = await _context.User.FindAsync(id);
+            var user = await _context.Users.FindAsync(id);
             if (user == null)
             {
                 return NotFound();
             }
 
-            _context.User.Remove(user);
+            _context.Users.Remove(user);
             await _context.SaveChangesAsync();
 
             return user;
@@ -325,7 +338,7 @@ namespace ShoppingList
 
         private bool UserExists(int id)
         {
-            return _context.User.Any(e => e.UserID == id);
+            return _context.Users.Any(e => Convert.ToInt32(e.Id) == id);
         }
     }
 }

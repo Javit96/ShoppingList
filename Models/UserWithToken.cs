@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using ShoppingList.Models.Auth;
 
 namespace ShoppingList.Models
 {
@@ -12,12 +9,12 @@ namespace ShoppingList.Models
 
         public UserWithToken(User user)
         {
-            this.UserID = user.UserID;
+            this.Id = user.Id;
             this.Email = user.Email;
-            this.FirstMidName = user.FirstMidName;
+            this.FirstName = user.FirstName;
             this.LastName = user.LastName;
-            this.Username = user.Username;
-            this.Phone = user.Phone;
+            this.UserName = user.UserName;
+            this.PhoneNumber = user.PhoneNumber;
 
 
             this.StockU = user.StockU;

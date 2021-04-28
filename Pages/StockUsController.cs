@@ -1,13 +1,11 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using ShoppingList.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using ShoppingList;
-using ShoppingList.Models;
 
 namespace ShoppingList.Pages
 {
@@ -17,7 +15,7 @@ namespace ShoppingList.Pages
     public class StockUsController : ControllerBase
     {
         private readonly ShoppingListContext _context;
-        
+
 
         public StockUsController(ShoppingListContext context)
         {
@@ -28,16 +26,16 @@ namespace ShoppingList.Pages
         [HttpGet]
         public async Task<ActionResult<IEnumerable<StockU>>> GetStockUs()
         {
-            return await _context.StockUs.ToListAsync();
+            return await _context.StockU.ToListAsync();
         }
 
         // GET: api/StockUs/5
         [HttpGet("{id}")]
         public async Task<ActionResult<StockU>> GetStockU(int id)
         {
-            
-            
-            var stockU = await _context.StockUs.FindAsync(id);
+
+
+            var stockU = await _context.StockU.FindAsync(id);
 
             if (stockU == null)
             {
@@ -48,9 +46,9 @@ namespace ShoppingList.Pages
         }
 
         [HttpGet("SUser/{userid}")]
-        public async Task<ActionResult<IEnumerable<StockU>>> GetStockUser(int userid)
+        public async Task<ActionResult<IEnumerable<StockU>>> GetStockUser(Guid userid)
         {
-            return await _context.StockUs.Where(s => s.UserID == userid).ToListAsync();
+            return await _context.StockU.Where(s => s.UserID == userid).ToListAsync();
         }
 
 
@@ -92,25 +90,25 @@ namespace ShoppingList.Pages
         [HttpPost]
         public async Task<ActionResult<StockU>> PostStockU(StockU stockU)
         {
-            
-            _context.StockUs.Add(stockU);
+
+            _context.StockU.Add(stockU);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetStockU", new { id = stockU.ID}, stockU);
+            return CreatedAtAction("GetStockU", new { id = stockU.ID }, stockU);
         }
 
-       
+
         // DELETE: api/StockUs/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<StockU>> DeleteStockU(int id)
         {
-            var stockU = await _context.StockUs.FindAsync(id);
+            var stockU = await _context.StockU.FindAsync(id);
             if (stockU == null)
             {
                 return NotFound();
             }
 
-            _context.StockUs.Remove(stockU);
+            _context.StockU.Remove(stockU);
             await _context.SaveChangesAsync();
 
             return stockU;
@@ -118,7 +116,7 @@ namespace ShoppingList.Pages
 
         private bool StockUExists(int id)
         {
-            return _context.StockUs.Any(e => e.ID == id);
+            return _context.StockU.Any(e => e.ID == id);
         }
     }
 }

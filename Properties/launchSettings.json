@@ -12,7 +12,6 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": false,
-      "launchUrl": "api",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -31,12 +30,9 @@
       "launchBrowser": false,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/api",
       "environmentVariables": {
-        "ASPNETCORE_URLS": "https://+:443;http://+:80",
-        "ASPNETCORE_HTTPS_PORT": "44370"
+        "ASPNETCORE_URLS": "https://+:443;http://+:80"
       },
-      "httpPort": 61374,
-      "useSSL": true,
-      "sslPort": 44370
+      "useSSL": true
     
     }
     
