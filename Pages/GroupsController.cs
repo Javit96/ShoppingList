@@ -1,15 +1,15 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using ShoppingList.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using ShoppingList;
+using ShoppingList.Models;
 
 namespace ShoppingList.Pages
 {
-    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class GroupsController : ControllerBase
@@ -21,15 +21,14 @@ namespace ShoppingList.Pages
             _context = context;
         }
 
-        // GET: api/Products
+        // GET: api/Groups
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Groups>>> GetGroups()
         {
-
             return await _context.Groups.ToListAsync();
         }
 
-        // GET: api/Products/5
+        // GET: api/Groups/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Groups>> GetGroups(Guid id)
         {
@@ -43,9 +42,8 @@ namespace ShoppingList.Pages
             return groups;
         }
 
-        // PUT: api/Products/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for
-        // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+        // PUT: api/Groups/5
+        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutGroups(Guid id, Groups groups)
         {
@@ -75,21 +73,20 @@ namespace ShoppingList.Pages
             return NoContent();
         }
 
-        // POST: api/Products
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for
-        // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+        // POST: api/Groups
+        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Groups>> PostProducts(Groups groups)
+        public async Task<ActionResult<Groups>> PostGroups(Groups groups)
         {
             _context.Groups.Add(groups);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetProducts", new { id = groups.Id }, groups);
+            return CreatedAtAction("GetGroups", new { id = groups.Id }, groups);
         }
 
-        // DELETE: api/Products/5
+        // DELETE: api/Groups/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<Groups>> DeleteProducts(Guid id)
+        public async Task<IActionResult> DeleteGroups(Guid id)
         {
             var groups = await _context.Groups.FindAsync(id);
             if (groups == null)
@@ -100,7 +97,7 @@ namespace ShoppingList.Pages
             _context.Groups.Remove(groups);
             await _context.SaveChangesAsync();
 
-            return groups;
+            return NoContent();
         }
 
         private bool GroupsExists(Guid id)
@@ -109,4 +106,3 @@ namespace ShoppingList.Pages
         }
     }
 }
-

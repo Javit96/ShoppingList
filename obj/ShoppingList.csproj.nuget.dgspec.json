@@ -1,39 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\ShoppingList\\ShoppingList\\ShoppingList.csproj": {}
+    "C:\\Users\\javierm\\Documents\\GitHub\\ShoppingList\\ShoppingList.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\ShoppingList\\ShoppingList\\ShoppingList.csproj": {
+    "C:\\Users\\javierm\\Documents\\GitHub\\ShoppingList\\ShoppingList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
+        "projectUniqueName": "C:\\Users\\javierm\\Documents\\GitHub\\ShoppingList\\ShoppingList.csproj",
         "projectName": "ShoppingList",
-        "projectPath": "E:\\GitHub\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
-        "packagesPath": "C:\\Users\\Javier Ivan Moreno\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\ShoppingList\\ShoppingList\\obj\\",
+        "projectPath": "C:\\Users\\javierm\\Documents\\GitHub\\ShoppingList\\ShoppingList.csproj",
+        "packagesPath": "C:\\Users\\javierm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javierm\\Documents\\GitHub\\ShoppingList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Javier Ivan Moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\javierm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -44,8 +43,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -57,37 +56,41 @@
             },
             "IdentityServer4": {
               "target": "Package",
-              "version": "[4.1.1, )"
+              "version": "[4.1.2, )"
             },
             "IdentityServer4.EntityFramework": {
               "target": "Package",
-              "version": "[4.1.1, )"
+              "version": "[4.1.2, )"
             },
             "IdentityServer4.EntityFramework.Storage": {
               "target": "Package",
-              "version": "[4.1.1, )"
+              "version": "[4.1.2, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[5.0.6, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.6, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",
@@ -97,23 +100,23 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.6, )"
             },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[5.0.6, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[5.0.2, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.6.0, )"
+              "version": "[6.11.0, )"
             }
           },
           "imports": [
@@ -134,7 +137,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
